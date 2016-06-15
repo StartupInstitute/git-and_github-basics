@@ -1,7 +1,6 @@
 # Git and GitHub Basics
 >*To begin you will want to fork a copy of this repository and pull it down to your local machine.*
 
-### Understanding Git and GitHub Basics
 #### Installing Git
 > Assuming you have brew installed. Use the following terminal command to install `$ brew install git`.
 
