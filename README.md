@@ -5,6 +5,7 @@
 #### Installing Git
 > Assuming you have brew installed. Use the following terminal command to install `$ brew install git`.
 
+#### Setting up Git with GitHub
 > If you have not already setup a GitHub account, do so now. Please make sure to keep your GitHub account name professional. We recommend that you turn on two-factor authentication as well.
 
 > Follow [GitHub's instructions](https://help.github.com/articles/set-up-git/) for setting up Git with your GitHub account. Make sure to setup your [connection over SSH](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/). Trust us you will want to avoid having to type your password over and over again. Plus, it is much more secure.
