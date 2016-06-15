@@ -20,4 +20,5 @@
 5. Push up the changes to **your forked version of the repository**.
 
 ![Startup Institute](https://github.com/StartupInstitute/git-and_github-basics/blob/master/si-logo.png)
-### Why Version Control is Important to Me.
+
+### Microblog: Why Version Control is Important to Me
