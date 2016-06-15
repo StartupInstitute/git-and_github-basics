@@ -1,3 +1,3 @@
 # Git and GitHub Basics
 
-![Startup Institute](https://d2e1tcbrruuso7.cloudfront.net/static/images/si_logo_bw-2.ac6dd70d0f2f.svg)
+![Startup Institute](https://github.com/StartupInstitute/git-and_github-basics/blob/master/si-logo.png)
