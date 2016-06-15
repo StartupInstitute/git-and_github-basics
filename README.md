@@ -13,7 +13,7 @@
 > If you need to, review GitHub's [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
 
-#### Put Your Knowledge to Pratice
+#### Put Your Knowledge to Practice
 > Now that you understand the basics;
 
 >1. Pull down your forked copy of this repository.
